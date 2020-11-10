@@ -12,4 +12,4 @@ Open your folder with script and open command prompt in folder.
 Or you can manually enter the folder with command prompt.
 
 Since you have done that,type next command:
-> pyinstaller --onefile -w league_killer.py
+``` pyinstaller --onefile -w league_killer.py
