@@ -3,6 +3,13 @@ An app that allow you to quit League of Legends without waiting for timer to exp
 
 # Download
 
-Open your command prompt and type
+Open your command prompt and type (clone wherever you want).
 > git clone https://github.com/Galardo420/league_killer.git
 
+# How to build an app into executable file?
+
+Open your folder with script and open command prompt in folder.
+Or you can manually enter the folder with command prompt.
+
+Since you have done that,type next command:
+> pyinstaller --onefile -w league_killer.py
