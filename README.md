@@ -13,3 +13,10 @@ Or you can manually enter the folder with command prompt.
 
 Since you have done that,type next command:
 > pyinstaller --onefile -w league_killer.py
+
+# Pyinstaller
+
+If you get an error because of pyinstaller,just simply install it:
+> pip install pyinstaller
+
+
