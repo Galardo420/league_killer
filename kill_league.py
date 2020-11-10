@@ -10,7 +10,7 @@ from tkinter import *
 root = Tk()
 
 root.title("League Killer by Galardo")
-root.iconbitmap(r'C:\Users\38761\Desktop\python\kill_league_icon.ico') # Set your path to the location of icon.
+#root.iconbitmap(r'location') # Set your path to the location of icon.
 root.geometry("300x100")
 
 # Setting process name that we want to kill
