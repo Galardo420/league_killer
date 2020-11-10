@@ -1,5 +1,5 @@
 # League Killer
-An app that allow you to quit League of Legends without waiting for timer to expire.
+An app that allows you to quit League of Legends without waiting for timer to expire.
 
 # Download
 
