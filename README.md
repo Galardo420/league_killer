@@ -4,7 +4,7 @@ An app that allows you to quit League of Legends without waiting for timer to ex
 # Download
 
 Open your command prompt and type (clone wherever you want).
-> git clone https://github.com/Galardo420/league_killer.git
+``` git clone https://github.com/Galardo420/league_killer.git ```
 
 # How to build an app into executable file?
 
